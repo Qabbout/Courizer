@@ -12,6 +12,10 @@ Courizer is made to help you solve this problem in a single click, and More!
 
 ## Screenshots
 
+(https://github.com/Qabbout/Courizer/blob/master/screenshots/S1.jpg)
+(https://github.com/Qabbout/Courizer/blob/master/screenshots/S2.jpg)
+(https://github.com/Qabbout/Courizer/blob/master/screenshots/S3.jpg)
+
 ## Permissions
 
 This application requires some permissions in order to work:
