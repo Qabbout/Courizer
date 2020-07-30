@@ -12,9 +12,17 @@ Courizer is made to help you solve this problem in a single click, and More!
 
 ## Screenshots
 
-(https://github.com/Qabbout/Courizer/blob/master/screenshots/S1.jpg)
-(https://github.com/Qabbout/Courizer/blob/master/screenshots/S2.jpg)
-(https://github.com/Qabbout/Courizer/blob/master/screenshots/S3.jpg)
+##### Home Screen
+
+<img src="https://github.com/Qabbout/Courizer/blob/master/screenshots/S1.jpg" width="300">
+
+##### Folder Screen
+
+<img src="https://github.com/Qabbout/Courizer/blob/master/screenshots/S2.jpg" width="300">
+
+##### Image Viewer Screen
+
+<img src="https://github.com/Qabbout/Courizer/blob/master/screenshots/S3.jpg" width="300">
 
 ## Permissions
 
