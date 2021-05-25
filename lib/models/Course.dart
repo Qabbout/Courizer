@@ -1,13 +1,9 @@
-
 class Course {
-  
-    String cCode;
-    String cName;
+  String? cCode;
+  String? cName;
 
-    Course({
-        this.cCode,
-        this.cName,
-    });
-
-    
+  Course({
+    this.cCode,
+    this.cName,
+  });
 }

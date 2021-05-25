@@ -1,13 +1,6 @@
-
 class Chapter {
-    String name;
-    String courseCode;
+  String? name;
+  String? courseCode;
 
-    Chapter({
-        this.name,
-        this.courseCode
-    });
-
-
-
+  Chapter({this.name, this.courseCode});
 }

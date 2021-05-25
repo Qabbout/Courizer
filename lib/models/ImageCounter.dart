@@ -1,17 +1,8 @@
-
 class ImageCounter {
- int count;
- String type;
- String code;
- String chapName;
+  int? count;
+  String? type;
+  String? code;
+  String? chapName;
 
-    ImageCounter({
-        this.count,
-        this.type,
-        this.code,
-        this.chapName
-    });
-
-
-
+  ImageCounter({this.count, this.type, this.code, this.chapName});
 }
