@@ -1,6 +1,6 @@
 # Courizer
 
-A Cross-platform Mobile Application that Organize your Courses' Images Automatically.
+Flutter application that Organize your Courses' Images Automatically.
 
 ## The Idea
 
