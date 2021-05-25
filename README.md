@@ -8,7 +8,7 @@ Remember all those times you took pictures of the board/notebook, and ended up l
 
 Remember the need of creating all these albums and moving and renaming every picture every day?
 
-Courizer is made to help you solve this problem in a single click, and More!
+Courizer is made to help you solve this problem and more in a single click.
 
 ## Screenshots
 
@@ -30,3 +30,4 @@ This application requires some permissions in order to work:
 ### Disclaimer
 
 The application is not released for iOS yet, I need an apple developer account for this :/.
+
