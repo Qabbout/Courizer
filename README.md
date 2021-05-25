@@ -14,7 +14,9 @@ Courizer is made to help you solve this problem in a single click, and More!
 
 <div align="center">
 <img src="https://github.com/Qabbout/Courizer/blob/master/screenshots/S1.jpg" width="250">
+<img width= "20">
 <img src="https://github.com/Qabbout/Courizer/blob/master/screenshots/S2.jpg" width="250">
+<img width= "20">
 <img src="https://github.com/Qabbout/Courizer/blob/master/screenshots/S3.jpg" width="250">
 </div>
 
