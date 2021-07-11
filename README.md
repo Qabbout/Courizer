@@ -1,3 +1,6 @@
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/Qabbout/Courizer)
+
+
 # Courizer
 
 Flutter application that Organize your Courses' Images Automatically.
