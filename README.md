@@ -32,5 +32,5 @@ This application requires some permissions in order to work:
 
 ### Disclaimer
 
-The application is not released for iOS yet, I need an apple developer account for this :/.
+The application is not released for iOS yet, I need an apple developer account for  that.
 
